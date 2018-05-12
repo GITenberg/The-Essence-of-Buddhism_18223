@@ -17,6 +17,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: Little Blue Books series No. 325
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18223#The-Essence-of-Buddhism
 gutenberg_bookshelf: Buddhism
 gutenberg_issued: '2006-04-21'
 gutenberg_type: Text
